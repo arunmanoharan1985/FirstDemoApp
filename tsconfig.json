@@ -8,7 +8,6 @@
     "experimentalDecorators": true,//angular needs decorators like @Component, @Injectable, etc.
     "removeComments": false,
     "noImplicitAny": false,
-    "noStrictGenericChecks": true,
     "lib": ["es2016", "dom"]
     
   }
